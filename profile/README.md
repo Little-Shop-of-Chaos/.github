@@ -9,7 +9,7 @@ We are a group specialized in building web apps with TypeScript/JavaScript.
 
 - **Programming languages:**&nbsp;&nbsp;TypeScript, JavaScript, HTML/CSS
 - **Frameworks:**&nbsp;&nbsp;Express.JS, Three.JS, Phaser, React
-- **Databases/runtimes:**&nbsp;&nbsp;PostgreSQL, MongoDB, Node.JS
+- **Databases/runtimes:**&nbsp;&nbsp;PostgreSQL, MongoDB
 - **Tools:**&nbsp;&nbsp;Docker, Git, GitHub Actions
 
 ## Group members
