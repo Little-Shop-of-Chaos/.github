@@ -1,6 +1,6 @@
 # Hi, we are Little Shop of Chaos :wave:
 
-We are a group specialized in building web apps with TypeScript/JavaScript.
+We are a group of Full Stack Developers specialized in building web apps with TypeScript/JavaScript.
 
 - 🤓 Currently working on Codemon (a JRPG battle game with a coding theme)
 - ⚡ [2nd place Hackathon winners](https://blog.boot.dev/news/hackathon-2025/) | 2025, Boot.dev
