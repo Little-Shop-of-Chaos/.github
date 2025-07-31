@@ -8,7 +8,7 @@ We are a group of Full Stack Developers specialized in building web apps with Ty
 ## Tech we work with
 
 - **Programming languages:**&nbsp;&nbsp;TypeScript, JavaScript, HTML/CSS
-- **Frameworks:**&nbsp;&nbsp;Express.JS, Three.JS, Phaser, React
+- **Frameworks:**&nbsp;&nbsp;Express.js, Three.js, Phaser, React
 - **Databases/runtimes:**&nbsp;&nbsp;PostgreSQL, MongoDB
 - **Tools:**&nbsp;&nbsp;Docker, Git, GitHub Actions
 
