@@ -1,8 +1,6 @@
 # Hi, we are Little Shop of Chaos :wave:
 
-We are a group of full-stack developers focused on building 2D/3D browser games & fun experiments, with the aim to entertain and delight. 
-
-All our projects are released with an [open source license](https://en.wikipedia.org/wiki/Open-source_license), so you can explore the code and experiment with it! :tada:
+We are a group of full-stack developers focused on building 2D/3D browser games & fun experiments, with the aim to entertain and delight. All our projects are released with an [open source license](https://en.wikipedia.org/wiki/Open-source_license), so you can explore the code and experiment with it! :tada:
 
 We hope you have a ton of fun with all of our chaos 😄🔥
 
