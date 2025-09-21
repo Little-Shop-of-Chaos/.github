@@ -6,7 +6,7 @@ We hope you have a ton of fun with all of our chaos 😄🔥
 
 ## :globe_with_meridians: Website
 
-You can check on all projects on our website: coming soon :eyes:
+You can check out all of our projects on our website: [littleshopofchaos.dev](https://littleshopofchaos.dev/)
   
 ## :hammer_and_wrench: Tech we work with
 
